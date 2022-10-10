@@ -21,7 +21,7 @@ Learning: Java.
 
 ## More about me
 
-👩‍💻 I'm currently working on the Buenos Aires City Government.
+👩‍💻 I'm currently working on my skills in order to be a good asset for the company that decides to trust in me by hiring me. Currently on the Alkemy skill up program.
 
 🧠 I'm currently learning Java in order to become a Fullstack developer.
 
