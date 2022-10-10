@@ -25,7 +25,7 @@ Learning: Java.
 
 🧠 I'm currently learning Java in order to become a Fullstack developer.
 
-📫 How to reach me via email and LinkedIn
+📫 How to reach me: via email and LinkedIn
 
 😄 Pronouns: he/his
 
