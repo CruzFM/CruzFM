@@ -23,11 +23,10 @@ Learning: Java.
 
 👩‍💻 I'm currently working on my skills in order to be a good asset for the company that decides to trust in me by hiring me. Currently on the Alkemy.org skill up program.
 
-🧠 I'm currently learning Java in order to become a Fullstack developer.
+🧠 I'm currently learning C# in order to become a Fullstack developer.
 
 📫 How to reach me: via email and LinkedIn
 
 😄 Pronouns: he/his
 
 ⚡️ Fun fact: I started learning web development before graduation because I wanted to help some relatives by building websites for their companies. I fell so in love with programming that, after graduation, I decided to switch into this career path.
-
