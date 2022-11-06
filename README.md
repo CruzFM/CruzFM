@@ -12,7 +12,7 @@ I'm looking for an opportunity to be part of a team where collaboration, excelen
 
 ## 🛠 Skills
 React, Javascript, HTML, CSS3, Bootstrap5, SQL.
-Learning: Java.
+Learning: C#.
 
 
 ## 🔗 Links
