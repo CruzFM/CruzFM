@@ -5,14 +5,14 @@
 ## 🚀 About Me
 I'm a React front end developer from Buenos Aires, Argentina.
 
-While currently working as a Lawyer for the Buenos Aires City Government, I'm an enthusiastic of front end development.
-I'm looking for an opportunity to be part of a team where collaboration, excelence and timing are the most important aspects of the day-to-day work.
+Currently working as a Php developer at Boehringer Ingelheim.
+Enthusiastic, constantly learning, working towards professional growth.
 
 
 
 ## 🛠 Skills
-React, Javascript, HTML, CSS3, Bootstrap5, SQL.
-Learning: C#.
+React, Javascript, HTML, CSS3, Bootstrap5, SQL, Php.
+Learning: Java, Laravel, Drupal.
 
 
 ## 🔗 Links
@@ -21,9 +21,9 @@ Learning: C#.
 
 ## More about me
 
-👩‍💻 I'm currently working on my skills in order to be a good asset for the company that decides to trust in me by hiring me. Currently on the Alkemy.org skill up program.
+👩‍💻 While working at Boehringer Ingelheim, I'm always working on my skills, in order to be the best professional I can be, so I can help my company and coworkers with all my best.
 
-🧠 I'm currently learning C# in order to become a Fullstack developer.
+🧠 I'm currently learning Java in order to become a Fullstack developer.
 
 📫 How to reach me: via email and LinkedIn
 
