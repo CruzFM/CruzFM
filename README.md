@@ -21,7 +21,7 @@ Learning: Java, Laravel, Drupal.
 
 ## More about me
 
-👩‍💻 While working at Boehringer Ingelheim, I'm always working on my skills, in order to be the best professional I can be, so I can help my company and coworkers with all my best.
+👩‍💻 While working at Boehringer Ingelheim, I continuously strive to improve my skills to become the best professional I can be. By doing so, I aim to contribute my utmost to the success of my company and support my coworkers.
 
 🧠 I'm currently learning Java in order to become a Fullstack developer.
 
@@ -29,4 +29,4 @@ Learning: Java, Laravel, Drupal.
 
 😄 Pronouns: he/his
 
-⚡️ Fun fact: I started learning web development before graduation because I wanted to help some relatives by building websites for their companies. I fell so in love with programming that, after graduation, I decided to switch into this career path.
+⚡️ Fun fact: I began learning web development even before graduating because I wanted to assist some relatives by building websites for their companies. I developed such a deep passion for programming that after graduation, I made the decision to switch into this career path.
