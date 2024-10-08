@@ -3,9 +3,9 @@
 
 
 ## 🚀 About Me
-I'm a React front end developer from Buenos Aires, Argentina.
+I'm a Vue.js and React front end developer from Buenos Aires, Argentina.
 
-Currently working as a Php developer at Boehringer Ingelheim.
+Currently working as a Vue.js and Python developer at Boehringer Ingelheim.
 Enthusiastic, constantly learning, working towards professional growth.
 
 
